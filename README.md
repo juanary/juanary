@@ -2,7 +2,7 @@
 
 ### ¡Hola! 👋
 
-Soy un apasionado del desarrollo de software con una historia interesante que contar. Tengo 19 años y durante mi adolescencia fui futbolista en divisiones juveniles. Sin embargo, en 2021 descubrí mi verdadera vocación: el desarrollo de software. Actualmente, estoy cursando la carrera de Ingeniería en Sistemas.
+Soy un apasionado del desarrollo de software. Tengo 19 años y durante mi adolescencia fui futbolista en divisiones juveniles. Sin embargo, en 2021 descubrí mi verdadera vocación: el desarrollo de software. Actualmente, estoy cursando la carrera de Ingeniería en Sistemas.
 
 ## Lenguajes de Programación
 
