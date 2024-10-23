@@ -18,10 +18,12 @@ Mi objetivo es continuar aprendiendo y mejorando mis habilidades en el desarroll
 A lo largo de mi formación, he adquirido habilidades en varios lenguajes de programación, entre los cuales se incluyen:
 
 - **Python**
+- **JAVA**
+- **R**
 - **C++**
 - **C**
 - **C#**
-- **SQL**
+- **PHP**
 
 
 ## Contacto
