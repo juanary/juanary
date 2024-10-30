@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm juan</h1>
 <h3 align="center">I'm a Systems Engineering student at UTN Córdoba, with a strong interest in software development and technology. Passionate about problem-solving and continuously expanding my skills in programming and system design.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
