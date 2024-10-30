@@ -1,4 +1,5 @@
-**
+I'm a Systems Engineering student at UTN Córdoba, with a strong interest in software development and technology. Passionate about problem-solving and continuously expanding my skills in programming and system design.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juanarayaa_) 
 
