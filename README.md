@@ -1,3 +1,5 @@
+# Hi, im Juan.
+
 I'm a Systems Engineering student at UTN Córdoba, with a strong interest in software development and technology. Passionate about problem-solving and continuously expanding my skills in programming and system design.
 
 ## 🌐 Socials:
