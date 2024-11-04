@@ -12,5 +12,3 @@ I'm a Systems Engineering student at UTN Córdoba, with a strong interest in sof
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**
