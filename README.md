@@ -5,7 +5,7 @@ I'm a Systems Engineering student at **UTN Córdoba**, with a strong interest in
 ---
 
 ## 🌐 **Socials**:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/juanarayaa_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://youtu.be/dQw4w9WgXcQ?si=-pOJju9RGwM-bFOg)
 
 ---
 
