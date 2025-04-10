@@ -1,6 +1,6 @@
 # Hi, I'm Juan. 
 
-I'm a 19-year-old **QA Tester** at **Globant** and a Systems Engineering student at **UTN Córdoba**, with a strong interest in software development and technology. I'm passionate about problem-solving and continuously expanding my skills in programming and system design.
+I'm a 19-year-old Systems Engineering student at **UTN Córdoba**, with a strong interest in software development and technology. I'm passionate about problem-solving and continuously expanding my skills in programming and system design.
 
 ---
 
