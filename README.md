@@ -5,8 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-I'm a 20-year-old Systems Engineering student at **UTN Córdoba** with a strong passion for backend development, software architecture, and solving real-world problems through code.
-Currently, I'm working in the **IT Department at Travel Rock**, where I focus on building efficient, scalable, and robust backend systems. I’m constantly seeking opportunities to grow, collaborate, and contribute to meaningful tech solutions.
+I'm a 20-year-old Systems Engineering student at **UTN Córdoba** and a Backend Developer at **Travel Rock**, where I contribute to building scalable systems and improving infrastructure reliability.
+Beyond development, I have experience **planning and coordinating software projects**, working cross-functionally with teams to meet deadlines and deliver quality solutions. I'm passionate about clan code, system design, and improving development workflows.
+In the near future, I aim to deepen my expertise in **software architecture**, **DevOps practices**, and **technical leadership**—combining both my technical and organizational strengths to lead impactful projects.
+
 
 ---
 
@@ -45,3 +47,11 @@ Currently, I'm working in the **IT Department at Travel Rock**, where I focus on
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 🤝 Soft Skills & Methodologies
+
+- 📋 Project planning & coordination  
+- 🤝 Team collaboration & communication  
+- 🧠 Critical thinking & problem-solving  
+- 📈 Agile / Scrum methodologies  
+- 🧭 Goal-oriented and proactive mindset
