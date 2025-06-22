@@ -7,7 +7,7 @@
 
 I'm a 20-year-old Systems Engineering student at **UTN Córdoba** and I'm working in the **IT Department at Travel Rock**, where I contribute to building scalable systems and improving infrastructure reliability.
 Beyond development, I have experience **planning and coordinating software projects**, working cross-functionally with teams to meet deadlines and deliver quality solutions. I'm passionate about clan code, system design, and improving development workflows.
-In the near future, I aim to deepen my expertise in **software architecture**, **DevOps practices**, and **technical leadership**—combining both my technical and organizational strengths to lead impactful projects.
+In the near future, I aim to deepen my expertise in **software architecture**, **DevOps practices**, and **technical leadership** combining both my technical and organizational strengths to lead impactful projects.
 
 
 ---
@@ -50,8 +50,10 @@ In the near future, I aim to deepen my expertise in **software architecture**, *
 
 ### 🤝 Soft Skills & Methodologies
 
-- 📋 Project planning & coordination  
-- 🤝 Team collaboration & communication  
-- 🧠 Critical thinking & problem-solving  
-- 📈 Agile / Scrum methodologies  
-- 🧭 Goal-oriented and proactive mindset
+🤝 Soft Skills & Methodologies
+📋 Project planning & coordination
+🤝 Team collaboration & communication
+🧠 Critical thinking & problem-solving
+📈 Agile / Scrum methodologies
+🧭 Goal-oriented and proactive mindset
+🗣️ Languages: English (B2), Portuguese (Fluent), Spanish (Native)
