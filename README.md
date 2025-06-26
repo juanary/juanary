@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Juan</h1>
-<p align="center">🎓 Systems Engineering Student | 💻 Backend Developer | 📚 Math Teacher | 📍 Córdoba, Argentina</p>
+<p align="center">🎓 Systems Engineering Student | 💻 Backend Developer | 📍 Córdoba, Argentina</p>
 
 ---
 
