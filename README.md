@@ -1,14 +1,17 @@
 <h1 align="center">Hey there! 👋 I'm Juan</h1>
-<p align="center">🎓 Systems Engineering Student | 💻 Backend Developer | 📍 Córdoba, Argentina</p>
+<p align="center">🎓 Systems Engineering Student | 💻 Backend Developer | 📚 Math Teacher | 📍 Córdoba, Argentina</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a 20-year-old Systems Engineering student at **UTN Córdoba** and I'm working in the **IT Department at Travel Rock**, where I contribute to building scalable systems and improving infrastructure reliability.
-Beyond development, I have experience **planning and coordinating software projects**, working cross-functionally with teams to meet deadlines and deliver quality solutions. I'm passionate about clan code, system design, and improving development workflows.
-In the near future, I aim to deepen my expertise in **software architecture**, **DevOps practices**, and **technical leadership** combining both my technical and organizational strengths to lead impactful projects.
+I'm a 20-year-old Systems Engineering student at **UTN Córdoba** and currently working in the **IT Department at Travel Rock**, where I help build scalable systems and enhance infrastructure reliability.
 
+I'm also a **substitute high school Mathematics teacher**, a role I carry out with great **passion and dedication**. Teaching has allowed me to strengthen my communication and organizational skills, and it’s a responsibility I take on with pride and deep commitment.
+
+Beyond development and teaching, I have experience **planning and coordinating software projects**, collaborating with multidisciplinary teams to meet goals and deliver quality solutions. I'm particularly passionate about clean code, system design, and streamlining development workflows.
+
+In the near future, I aim to further specialize in **software architecture**, **DevOps practices**, and **technical leadership**, combining my technical knowledge and human approach to lead impactful projects.
 
 ---
 
@@ -48,12 +51,13 @@ In the near future, I aim to deepen my expertise in **software architecture**, *
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-### 🤝 Soft Skills & Methodologies
+---
 
-🤝 Soft Skills & Methodologies
-📋 Project planning & coordination
-🤝 Team collaboration & communication
-🧠 Critical thinking & problem-solving
-📈 Agile / Scrum methodologies
-🧭 Goal-oriented and proactive mindset
-🗣️ Languages: English (B2), Portuguese (Fluent), Spanish (Native)
+## 🤝 Soft Skills & Methodologies
+
+- 📋 Project planning & coordination  
+- 🤝 Team collaboration & communication  
+- 🧠 Critical thinking & problem-solving  
+- 📈 Agile / Scrum methodologies  
+- 🧭 Goal-oriented and proactive mindset  
+- 🗣️ Languages: English (B2), Portuguese (Fluent), Spanish (Native)
