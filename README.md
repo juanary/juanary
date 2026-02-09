@@ -51,7 +51,6 @@ Mi perfil combina una base sólida en sistemas de información con conocimiento 
 - Uso técnico de **Linux**: terminal, permisos, procesos, estructura del sistema.
 - Control de versiones y gestión de cambios con **Git/GitHub**.
 - Configuración y uso de **entornos de desarrollo profesionales**.
-- Análisis de sistemas apoyado en **bases de datos relacionales (SQL)**.
 - Conocimientos de **redes, protocolos y comunicación entre sistemas**.
 - Interacción con **APIs y servicios HTTP** como soporte a sistemas de información.
 - Documentación técnica, funcional y operativa.
