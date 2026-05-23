@@ -7,7 +7,6 @@
 **Estudiante de Ingeniería en Sistemas de Información — UTN FRC**
 Industrial IT · Análisis de Sistemas · Gestión Técnica · Inteligencia Operacional
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=950&lines=Análisis+de+Sistemas+%26+Tecnología+Industrial;Ingeniería+orientada+a+procesos+y+operaciones;Industrial+IT+%7C+Infraestructura+%7C+Gestión;Construyendo+tecnología+más+allá+del+código;Perfil+de+ingeniería+orientado+al+futuro" />
 
 </div>
 
