@@ -169,31 +169,7 @@ Mi objetivo profesional a largo plazo es especializarme en áreas donde la tecno
 
 # 💼 Experiencia Profesional
 
-Si la idea es que el README represente tu perfil **como profesional actual**, entonces conviene que el cargo no suene a pasantía ni a "junior". Debe sonar a alguien que ya forma parte de la estructura tecnológica de una empresa grande.
-
-Las opciones que mejor encajan con tu perfil son:
-
-### Opción 1 (la más equilibrada)
-
-**Analista de Sistemas Industriales — Arcor**
-
-### Opción 2 (más moderna)
-
-**Analista de Transformación Digital Industrial — Arcor**
-
-### Opción 3 (más orientada a IT)
-
-**Analista de Infraestructura y Sistemas — Arcor**
-
-### Opción 4 (la que más parece "ingeniero de sistemas")
-
-**Analista Funcional de Procesos y Sistemas — Arcor**
-
----
-
-Yo usaría esta:
-
-## Analista Funcional de Procesos y Sistemas — Arcor
+## Analista de Procesos y Sistemas — Arcor
 
 Participación en iniciativas de mejora tecnológica y optimización de procesos dentro de entornos industriales de gran escala, actuando como nexo entre operaciones, gestión y tecnología.
 
