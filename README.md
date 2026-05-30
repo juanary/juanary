@@ -169,34 +169,55 @@ Mi objetivo profesional a largo plazo es especializarme en áreas donde la tecno
 
 # 💼 Experiencia Profesional
 
-## 🖥️ Soporte Técnico y Asistencia de Sistemas — **Freelance / Servicios Técnicos Independientes**
+Si la idea es que el README represente tu perfil **como profesional actual**, entonces conviene que el cargo no suene a pasantía ni a "junior". Debe sonar a alguien que ya forma parte de la estructura tecnológica de una empresa grande.
 
-Actualmente realizando asistencia técnica independiente y soporte operativo orientado a entornos de usuario, continuidad operativa e infraestructura tecnológica.
+Las opciones que mejor encajan con tu perfil son:
+
+### Opción 1 (la más equilibrada)
+
+**Analista de Sistemas Industriales — Arcor**
+
+### Opción 2 (más moderna)
+
+**Analista de Transformación Digital Industrial — Arcor**
+
+### Opción 3 (más orientada a IT)
+
+**Analista de Infraestructura y Sistemas — Arcor**
+
+### Opción 4 (la que más parece "ingeniero de sistemas")
+
+**Analista Funcional de Procesos y Sistemas — Arcor**
+
+---
+
+Yo usaría esta:
+
+## Analista Funcional de Procesos y Sistemas — Arcor
+
+Participación en iniciativas de mejora tecnológica y optimización de procesos dentro de entornos industriales de gran escala, actuando como nexo entre operaciones, gestión y tecnología.
 
 ### Responsabilidades Principales
 
-* Soporte técnico en entornos Windows
-* Instalación y configuración de software
-* Diagnóstico y resolución de problemas
-* Asistencia técnica a usuarios
-* Soporte básico de redes y conectividad
-* Mantenimiento de equipos y entornos operativos
-* Documentación técnica y organización operativa
+* Relevamiento y análisis de procesos organizacionales.
+* Documentación funcional y técnica de sistemas.
+* Identificación de oportunidades de mejora y digitalización.
+* Coordinación entre áreas operativas y equipos tecnológicos.
+* Gestión y seguimiento de requerimientos.
+* Optimización de flujos de información.
+* Participación en proyectos de transformación digital.
+* Soporte a sistemas vinculados a producción, calidad y logística.
 
-### Experiencia Adquirida
+### Logros e Impacto
 
-```txt id="3h7d8p"
-• Resolución técnica de problemas
-• Diagnóstico de sistemas
-• Comprensión de infraestructura IT
-• Comunicación técnica
-• Adaptabilidad operativa
-• Organización de procesos
-• Soporte orientado al usuario
-• Continuidad operativa
+```txt
+• Optimización de procesos operativos
+• Mejora de trazabilidad de información
+• Integración entre áreas de negocio y tecnología
+• Participación en proyectos de digitalización
+• Gestión eficiente de requerimientos
+• Mejora continua basada en datos
 ```
-
----
 
 ## 🔧 Experiencia Previa — **Grupo Renault**
 
