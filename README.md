@@ -1,4 +1,3 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=C8102E&center=true&vCenter=true&width=900&lines=Juan+Araya;Ingeniería+en+Sistemas+de+Información;Análisis+de+Sistemas+•+IT+Industrial+•+Transformación+Digital" alt="Typing SVG" />
 
 <div align="center">
 
