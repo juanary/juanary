@@ -2,9 +2,9 @@
 
 # Juan Araya
 
-### Ingeniería en Sistemas de Información · Análisis de Sistemas · IT Industrial · Automatización
+### Ingeniería en Sistemas de Información · Análisis de Sistemas · IT Industrial · 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=850&lines=Ingeniería+en+Sistemas+de+Información;Análisis+Funcional+y+Procesos;Backend+Development;IT+Industrial;Inteligencia+Artificial+Aplicada;Automatización+de+Procesos" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=C8102E&center=true&vCenter=true&width=850&lines=Ingeniería+en+Sistemas+de+Información;Análisis+Funcional+y+Procesos;Backend+Development;IT+Industrial;Inteligencia+Artificial+Aplicada;Automatización+de+Procesos">
 
 <br>
 
