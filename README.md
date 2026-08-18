@@ -244,20 +244,6 @@ Quiero poder entender el problema, diseñar la solución, construirla, integrarl
 
 ---
 
-# 📊 GitHub
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `software • systems • automation • industry • AI`
