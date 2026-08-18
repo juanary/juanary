@@ -4,8 +4,6 @@
 
 ### Software Developer · Systems Engineer in training · Industrial IT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=C8102E&center=true&vCenter=true&width=850&lines=Ingeniería+en+Sistemas+de+Información;Software+Development;Backend+%26+Automation;Industrial+IT;Artificial+Intelligence;Systems+Analysis" />
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanary)
